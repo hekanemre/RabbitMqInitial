@@ -1,0 +1,5 @@
+C:\Users\hakan\OneDrive\Masaüstü\RabbitMq-NetCore\InitialRabbitMQ\InitialRabbitMQ.Publisher\obj\Debug\net7.0\InitialRabbitMQ.Publisher.csproj.AssemblyReference.cache
+C:\Users\hakan\OneDrive\Masaüstü\RabbitMq-NetCore\InitialRabbitMQ\InitialRabbitMQ.Publisher\obj\Debug\net7.0\InitialRabbitMQ.Publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\OneDrive\Masaüstü\RabbitMq-NetCore\InitialRabbitMQ\InitialRabbitMQ.Publisher\obj\Debug\net7.0\InitialRabbitMQ.Publisher.AssemblyInfoInputs.cache
+C:\Users\hakan\OneDrive\Masaüstü\RabbitMq-NetCore\InitialRabbitMQ\InitialRabbitMQ.Publisher\obj\Debug\net7.0\InitialRabbitMQ.Publisher.AssemblyInfo.cs
+C:\Users\hakan\OneDrive\Masaüstü\RabbitMq-NetCore\InitialRabbitMQ\InitialRabbitMQ.Publisher\obj\Debug\net7.0\InitialRabbitMQ.Publisher.csproj.CoreCompileInputs.cache
