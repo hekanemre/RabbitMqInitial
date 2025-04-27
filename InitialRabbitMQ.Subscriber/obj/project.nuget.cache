@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UTgfnm9k3CA=",
+  "dgSpecHash": "pOR6CdHsah4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hakan\\OneDrive\\Masaüstü\\RabbitMq-NetCore\\InitialRabbitMQ\\InitialRabbitMQ.Subscriber\\InitialRabbitMQ.Subscriber.csproj",
+  "projectFilePath": "C:\\Users\\hakan\\OneDrive\\Masaüstü\\RabbitMQInitial\\RabbitMqInitial\\InitialRabbitMQ.Subscriber\\InitialRabbitMQ.Subscriber.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hakan\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
     "C:\\Users\\hakan\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

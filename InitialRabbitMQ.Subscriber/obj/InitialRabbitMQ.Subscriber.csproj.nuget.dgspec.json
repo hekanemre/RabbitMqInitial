@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hakan\\OneDrive\\Masaüstü\\RabbitMq-NetCore\\InitialRabbitMQ\\InitialRabbitMQ.Subscriber\\InitialRabbitMQ.Subscriber.csproj": {}
+    "C:\\Users\\hakan\\OneDrive\\Masaüstü\\RabbitMQInitial\\RabbitMqInitial\\InitialRabbitMQ.Subscriber\\InitialRabbitMQ.Subscriber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hakan\\OneDrive\\Masaüstü\\RabbitMq-NetCore\\InitialRabbitMQ\\InitialRabbitMQ.Subscriber\\InitialRabbitMQ.Subscriber.csproj": {
+    "C:\\Users\\hakan\\OneDrive\\Masaüstü\\RabbitMQInitial\\RabbitMqInitial\\InitialRabbitMQ.Subscriber\\InitialRabbitMQ.Subscriber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hakan\\OneDrive\\Masaüstü\\RabbitMq-NetCore\\InitialRabbitMQ\\InitialRabbitMQ.Subscriber\\InitialRabbitMQ.Subscriber.csproj",
+        "projectUniqueName": "C:\\Users\\hakan\\OneDrive\\Masaüstü\\RabbitMQInitial\\RabbitMqInitial\\InitialRabbitMQ.Subscriber\\InitialRabbitMQ.Subscriber.csproj",
         "projectName": "InitialRabbitMQ.Subscriber",
-        "projectPath": "C:\\Users\\hakan\\OneDrive\\Masaüstü\\RabbitMq-NetCore\\InitialRabbitMQ\\InitialRabbitMQ.Subscriber\\InitialRabbitMQ.Subscriber.csproj",
+        "projectPath": "C:\\Users\\hakan\\OneDrive\\Masaüstü\\RabbitMQInitial\\RabbitMqInitial\\InitialRabbitMQ.Subscriber\\InitialRabbitMQ.Subscriber.csproj",
         "packagesPath": "C:\\Users\\hakan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hakan\\OneDrive\\Masaüstü\\RabbitMq-NetCore\\InitialRabbitMQ\\InitialRabbitMQ.Subscriber\\obj\\",
+        "outputPath": "C:\\Users\\hakan\\OneDrive\\Masaüstü\\RabbitMQInitial\\RabbitMqInitial\\InitialRabbitMQ.Subscriber\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -123,11 +123,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hakan\\OneDrive\\Masaüstü\\RabbitMq-NetCore\\InitialRabbitMQ\\InitialRabbitMQ.Publisher\\InitialRabbitMQ.Publisher.csproj",
+      "projectUniqueName": "C:\\Users\\hakan\\OneDrive\\Masaüstü\\RabbitMQInitial\\RabbitMqInitial\\InitialRabbitMQ.Publisher\\InitialRabbitMQ.Publisher.csproj",
       "projectName": "InitialRabbitMQ.Publisher",
-      "projectPath": "C:\\Users\\hakan\\OneDrive\\Masaüstü\\RabbitMq-NetCore\\InitialRabbitMQ\\InitialRabbitMQ.Publisher\\InitialRabbitMQ.Publisher.csproj",
+      "projectPath": "C:\\Users\\hakan\\OneDrive\\Masaüstü\\RabbitMQInitial\\RabbitMqInitial\\InitialRabbitMQ.Publisher\\InitialRabbitMQ.Publisher.csproj",
       "packagesPath": "C:\\Users\\hakan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hakan\\OneDrive\\Masaüstü\\RabbitMq-NetCore\\InitialRabbitMQ\\InitialRabbitMQ.Publisher\\obj\\",
+      "outputPath": "C:\\Users\\hakan\\OneDrive\\Masaüstü\\RabbitMQInitial\\RabbitMqInitial\\InitialRabbitMQ.Publisher\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

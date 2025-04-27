@@ -1,0 +1,1 @@
+With this project we will discover how to use message brokers. How to send a message to a queue and how to read related message.
