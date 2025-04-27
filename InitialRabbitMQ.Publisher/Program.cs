@@ -3,7 +3,7 @@
 #region Connection And Channel Arrangements
 //If I want to send data to rabbitmq, i need to provide a connection
 var factory = new ConnectionFactory();
-//We get that url from rabbitmq cloud
+//We get that url from rabbitmq cloud(https://api.cloudamqp.com/console/1b5d8175-d770-462b-b89e-b221bfee6fe0/details)
 factory.Uri = new Uri("amqps://praqhwrl:FlL17KQ2pUS2kKznDABu8LtzdDDZ3jER@toad.rmq.cloudamqp.com/praqhwrl");
 
 using var connection = factory.CreateConnection();

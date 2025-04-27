@@ -14,6 +14,8 @@ channel.QueueDeclare("initial-queue", true, false, false);
 
 #region Subscriber Arrangements
 var subscriber = new EventingBasicConsumer(channel);
+//If i give second property as "true" if i read messsage correctly or uncorrectly both way this message is removed from queue.
+//If i give it "false" it means i say to the rabbitmq you don't remove that message until i give you an information that you can remove
 channel.BasicConsume("initial-queue", true, subscriber);
 #endregion Subscriber Arrangements
 
