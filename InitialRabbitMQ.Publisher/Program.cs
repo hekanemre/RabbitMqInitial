@@ -11,14 +11,26 @@ var channel = connection.CreateModel();
 channel.QueueDeclare("initial-queue", true, false, false);
 #endregion Connection And Channel Arrangements
 
-#region Publish Message Arrangements
+#region Publish Message Arrangements and Sending
 //we send messages to the queue as byte so that we can sen every kind of data (pdf,img etc.). We need to convert it to byte.
-string message = "first message";
-var messageBody = Encoding.UTF8.GetBytes(message);
-#endregion Publish Message Arrangements
+//string message = "first message";
+//var messageBody = Encoding.UTF8.GetBytes(message);
 
 //string.Empty make exchange as default exchange so we need to give queue name so default exchange send message to related queue
-channel.BasicPublish(string.Empty, "initial-queue", null, messageBody);
+//channel.BasicPublish(string.Empty, "initial-queue", null, messageBody);
+
+
+Enumerable.Range(1, 50).ToList().ForEach(x =>
+{
+    string message = $"sender message: {x}";
+    var messageBody = Encoding.UTF8.GetBytes(message);
+    channel.BasicPublish(string.Empty, "initial-queue", null, messageBody);
+
+});
+#endregion Publish Message Arrangements and Sending
+
+
+
 
 Console.WriteLine("Message sent.");
 Console.ReadLine();
